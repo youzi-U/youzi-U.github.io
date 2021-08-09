@@ -1,6 +1,6 @@
 class CanvasDraw {
     constructor() {
-        this.xxx = 0;
+        this.xxx = 01;
 
         this.init()
     }
